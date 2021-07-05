@@ -1,0 +1,10 @@
+1. Database adalah kumpulan data yang terorganisasi.
+2. RDBMS singkatan dari Relational Database Management System
+3. Flat Model, Hierarical Model, Network Model, Relational Model, Object Oriented Model 
+4. Oracle, PostgreeSQL, SQLite, SQL Server, MariaDB, Ms. Access
+5. Keunggulan MySQL :
+- speed, kecepatan yang cepat dan dapat bersaing dengan RDBMS berbayar
+- multi user support, dapat diakses banyak pengguna dalam waktu bersamaan
+- scalability, dapat memproses data yang kompleks dengan performa yang stabil
+- user friendly, mudah dipelajari dan digunakan
+- portability, dapat dipindahkan sistem yang lain dengan mudah
